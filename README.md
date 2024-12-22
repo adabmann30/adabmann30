@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 📫 How to reach me **adabmann100@gmail.com**
+- 📫 How to reach me **mannadab100@gmail.com**
 
 - Fun fact about me: **I can play chess all day**
 
